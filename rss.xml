@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[openhearthouse]]></title>
         <description><![CDATA[openhearthouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/openhearthouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 08:09:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 08:09:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/openhearthouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c9f2157-d88b-4029-9c15-0b1c0b527e28.jpg">]]></description>
+            <link>https://thegrid.ai/openhearthouse/9fe1b6cd-0b04-4f29-a09d-d2eb2e6a43a3/index.html</link>
+            <guid isPermaLink="false">9fe1b6cd-0b04-4f29-a09d-d2eb2e6a43a3</guid>
+            <pubDate>Mon, 04 Jan 2016 08:09:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eb55e65-6527-4e5f-9c27-0de8f68a87e1.jpg">]]></description>
-            <link>undefineda2b6ff07-242d-419c-aa92-10e6ff973591/index.html</link>
+            <link>https://thegrid.ai/openhearthouse/a2b6ff07-242d-419c-aa92-10e6ff973591/index.html</link>
             <guid isPermaLink="false">a2b6ff07-242d-419c-aa92-10e6ff973591</guid>
             <pubDate>Mon, 04 Jan 2016 08:09:12 GMT</pubDate>
         </item>
