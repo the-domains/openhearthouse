@@ -2,12 +2,13 @@ name: openhearthouse
 favicon: null
 layout_spectrum: 0.24637422105297446
 typography_spectrum: 0.1394026931375265
+title: Openhearthouse
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-69141509-8
   facebook: null
   twitter: null
 opengraph:
